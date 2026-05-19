@@ -35,7 +35,7 @@ ESP32_AI_And_IoT
 
 ![Image](https://images.openai.com/static-rsc-4/cqaL24bQpLxgoTtGlg7_9fyYquRgYyjeMKG6eHk6ykhUwFVkWHVeAEYoujlgCX2wTS2frDgs1EreT2zSYrbfgL-XVuk8VGF05VVnX4tc0CxjnqEo-kBDqd7dj5iiSLZ3yBG7hbK2EmlyWXlTvqhlDt4yyPIXGK0k_-CzEGIBceMjhgPcNM1fysXqe3DKnZwd?purpose=fullsize)
 
-## What is ESP32?
+## What is ESP32? 
 
 ESP32 is a powerful low-cost microcontroller used for:
 
